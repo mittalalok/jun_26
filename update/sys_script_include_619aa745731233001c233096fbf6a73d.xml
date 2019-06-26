@@ -10,6 +10,7 @@
         <script><![CDATA[var si = Class.create();
 si.prototype = {
     initialize: function() {
+		//sfsf
     },
 
     type: 'si'
@@ -18,13 +19,13 @@ si.prototype = {
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2019-06-26 06:47:33</sys_created_on>
         <sys_id>619aa745731233001c233096fbf6a73d</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>si</sys_name>
         <sys_package display_value="jun_26" source="sn_jun_26">a357ef81731233001c233096fbf6a7be</sys_package>
         <sys_policy>read</sys_policy>
         <sys_scope display_value="jun_26">a357ef81731233001c233096fbf6a7be</sys_scope>
         <sys_update_name>sys_script_include_619aa745731233001c233096fbf6a73d</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2019-06-26 06:47:33</sys_updated_on>
+        <sys_updated_on>2019-06-26 10:32:12</sys_updated_on>
     </sys_script_include>
 </record_update>
