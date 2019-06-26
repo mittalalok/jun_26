@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element label="tb1" max_length="40" name="sn_jun_26_tb1" type="collection"/>
+    <element label="tb1" max_length="40" name="sn_jun_26_tb1" type="collection">
+        <element label="COL6" max_length="10" name="col6" type="string"/>
+        <element label="COL7" max_length="20" name="col7" type="string"/>
+    </element>
 </database>
