@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="sn_jun_26.tb1_user" name="sn_jun_26.tb1_user">b3a76bc1731233001c233096fbf6a705</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-26 06:34:45</sys_created_on>
+        <sys_id>c0b76bc1731233001c233096fbf6a709</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>b3a76bc1731233001c233096fbf6a705</sys_name>
+        <sys_package display_value="jun_26" source="sn_jun_26">a357ef81731233001c233096fbf6a7be</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="jun_26">a357ef81731233001c233096fbf6a7be</sys_scope>
+        <sys_update_name>sys_embedded_help_role_c0b76bc1731233001c233096fbf6a709</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-26 06:34:45</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
